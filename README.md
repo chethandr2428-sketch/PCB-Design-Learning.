@@ -1,4 +1,3 @@
-# PCB-Design-Learning
 
 # PCB Design Learning — Day 1
 
